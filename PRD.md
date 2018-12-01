@@ -40,7 +40,7 @@
 1.所需添加的功能（“✔”）
 ![目前APP上的主要功能](https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%9B%AE%E5%89%8DAPP%E4%B8%8A%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD.png)
 2.流程图
-!推荐路线流程图]
+![推荐路线流程图]
 (https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### Questions:
 |Question|Outcome|
