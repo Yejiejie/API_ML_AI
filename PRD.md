@@ -40,10 +40,14 @@
 1.所需添加的功能（“✔”）
 ![目前APP上的主要功能](https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%9B%AE%E5%89%8DAPP%E4%B8%8A%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD.png)
 2.流程图
-![](https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![]
+(https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### Questions:
 |Question|Outcome|
 |--------|-------|
-|我使用时|我使用后|
+|如何实现输出4S店门面与地图联系相一致|待完善|
+|百度地图如何显示用户所在位置|待完善|
+|如何实现类似车型精准反馈|待完善|
+|如何提高拍照识车的时效性|待完善|
 ### Not doing: 
 
