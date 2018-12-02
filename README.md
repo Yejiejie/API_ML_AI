@@ -42,6 +42,8 @@
 - 2.流程图
 ![推荐路线流程图](https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 - 3.产品原型图
+![产品原型图1](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B1.png)
+![]()
 ### Questions:
 |Question|Outcome|
 |--------|-------|
