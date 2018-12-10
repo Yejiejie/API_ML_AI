@@ -100,4 +100,4 @@ options["custom_lib"] = "true"
 
 
 client.logoSearch(image, options
-(```)
+
