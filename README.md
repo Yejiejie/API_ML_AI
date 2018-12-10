@@ -72,4 +72,10 @@
 - [Key1](http://lbsyun.baidu.com/apiconsole/key)
 - [key2](https://console.bce.baidu.com/ai/?_=1544405088209&fromai=1#/ai/imagerecognition/overview/index)
 - [技术文档](http://lbsyun.baidu.com/index.php?title=androidsdk)
-! [API调用](https://github.com/Yejiejie/API_ML_AI/blob/master/API%E8%B0%83%E7%94%A8.png)
+### 效果（理想）
+![API调用](https://github.com/Yejiejie/API_ML_AI/blob/master/API%E8%B0%83%E7%94%A8.png)
+![logo识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/logo%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
+![logo识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/logo%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
+![车型识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
+![车型识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
+
