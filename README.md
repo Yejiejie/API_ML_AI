@@ -65,5 +65,10 @@
 ### 用户痛点
 - 用户在懂车帝APP上获取了某款车的资讯，但是APP没有提供当地门店的具体位置的功能，难以到门店去看车试车。
 - APP上提供的【4S店保养】功能并没有提供所推荐的4S店的具体位置，还要手动搜索。
-### 输入输出
-
+### 人工智能概率性与用户痛点
+### 需求列表与人工智能API加值
+### 原型
+### API调配输入输出
+- [Key1](http://lbsyun.baidu.com/apiconsole/key)
+- [key2](https://console.bce.baidu.com/ai/?_=1544405088209&fromai=1#/ai/imagerecognition/overview/index)
+- [技术文档](http://lbsyun.baidu.com/index.php?title=androidsdk)
