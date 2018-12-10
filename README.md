@@ -79,3 +79,27 @@
 ![车型识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
 ![车型识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
 ### 现实调用（待放上）
+from bs4 import Car
+from urllib import request
+from aip import AipImageClassify​AipSpeech
+import IPython
+APP_ID = '15106563'
+API_KEY = '3yZGOA0MF7vIaVSkU5tSuqH5
+SECRET_KEY = 'QsGBB6PLUkBGOl8tYAGfEsKFqOwpnwhB'
+client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
+""" 读取图片 """
+def get_file_content(filePath):
+    with open(filePath, 'rb') as fp:
+        return fp.read()
+
+image = get_file_content('example.jpg')
+
+""" 调用logo商标识别 """
+client.logoSearch(image);
+
+""" 如果有可选参数 """
+options = {}
+options["custom_lib"] = "true"
+
+""" 带参数调用logo商标识别 """
+client.logoSearch(image, options
