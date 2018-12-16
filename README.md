@@ -52,6 +52,7 @@
 ![目前APP上主要功能要增加功能](https://github.com/Yejiejie/API_ML_AI/blob/master/%E7%9B%AE%E5%89%8DAPP%E4%B8%8A%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E8%A6%81%E5%A2%9E%E5%8A%A0%E5%8A%9F%E8%83%BD.png)
 ##### 2.用户流程图
 - 功能一【实体店看车】![功能一：【实体店看车】功能流程图.](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8A%9F%E8%83%BD%E4%B8%80%EF%BC%9A%E3%80%90%E5%AE%9E%E4%BD%93%E5%BA%97%E7%9C%8B%E8%BD%A6%E3%80%91%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
 - 功能二：【拍照识图】![功能二：【拍照识图】用户流程图](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8A%9F%E8%83%BD%E4%BA%8C%EF%BC%9A%E3%80%90%E6%8B%8D%E7%85%A7%E8%AF%86%E5%9B%BE%E3%80%91%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 - 3.产品原型图（待完善）
 ![产品原型图1](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B1.png)
