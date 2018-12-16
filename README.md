@@ -58,7 +58,7 @@
 
 - 功能二：【拍照识图】![功能二：【拍照识图】用户流程图](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8A%9F%E8%83%BD%E4%BA%8C%EF%BC%9A%E3%80%90%E6%8B%8D%E7%85%A7%E8%AF%86%E5%9B%BE%E3%80%91%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ##### 3.产品原型图（待完善）
-[原型文档]{https://yejiejie.github.io/yuanxing/)
+[原型文档](https://yejiejie.github.io/yuanxing/)
 
 ### API&AI
 
