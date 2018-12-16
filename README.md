@@ -45,6 +45,9 @@
 |1|我该去哪里看车啊|当我在懂车帝APP上看中了一台奥迪A3新能源插电式混合动力汽车，我想了解广州从化的门店是否有这辆车在售，但是我却不知道这些门店的具体位置，也不知道该怎么到这些门店去，我该怎么办？这时候能够通过使用【实体店看车】功能便能够解决这个具体问题。|可行性≥95%|定位|
 |2|我想知道这辆车的型号|我今天在学校路上看到一辆很炫的车，我想知道这是什么车型，于是我打开应用里的【拍照识车】功能，了解到这是一款奥迪A3新能源插电式混合动力汽车。|可行性≥90%|车型识别|
 
+#### Not doing: 
+路线推荐系统
+
 ### 原型：
 
 #### User interaction and design
@@ -54,32 +57,22 @@
 - 功能一【实体店看车】![功能一：【实体店看车】功能流程图.](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8A%9F%E8%83%BD%E4%B8%80%EF%BC%9A%E3%80%90%E5%AE%9E%E4%BD%93%E5%BA%97%E7%9C%8B%E8%BD%A6%E3%80%91%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 - 功能二：【拍照识图】![功能二：【拍照识图】用户流程图](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8A%9F%E8%83%BD%E4%BA%8C%EF%BC%9A%E3%80%90%E6%8B%8D%E7%85%A7%E8%AF%86%E5%9B%BE%E3%80%91%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-- 3.产品原型图（待完善）
-![产品原型图1](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B1.png)
-![产品原型图2](https://github.com/Yejiejie/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B2.png)
-### Questions:
-|Question|Outcome|
-|--------|-------|
-|如何实现输出4S店门面与地图联系相一致|待完善|
-|百度地图如何显示用户所在位置|待完善|
-|如何实现类似车型精准反馈|待完善|
-|如何提高拍照识车的时效性|待完善|
-### Not doing: 
-路线推荐系统
+##### 3.产品原型图（待完善）
+[原型文档](https://yejiejie.github.io/yuanxing/)
+
 ### API&AI
-- 百度地图API
+
+#### 需要用到的API
+- 百度地图API、高德地图API
 - 细粒度图像识别（车型识别、品牌logo识别）
 [链接](http://ai.baidu.com/tech/imagerecognition/fine_grained)
-### Nurture plan
 
-### API调配输入输出
-- [Key1](http://lbsyun.baidu.com/apiconsole/key)
-- [key2](https://console.bce.baidu.com/ai/?_=1544405088209&fromai=1#/ai/imagerecognition/overview/index)
+#### API调配输入输出
+##### 1.定位功能
+##### 2.车型识别
 - [技术文档](http://lbsyun.baidu.com/index.php?title=androidsdk)
-### 效果（理想）
+###### 调用效果（理想）
 ![API调用](https://github.com/Yejiejie/API_ML_AI/blob/master/API%E8%B0%83%E7%94%A8.png)
-![logo识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/logo%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
-![logo识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/logo%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
-![车型识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
-![车型识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
-### 现实调用（待放上）
+- 车型识别输入![车型识别输入](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%85%A5.png)
+- 车型识别输出![车型识别输出](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB%E8%BE%93%E5%87%BA.png)
+###### 现实调用（待放上）
