@@ -63,7 +63,7 @@
 ### API&AI
 
 #### 需要用到的API
-- 百度地图API、高德地图API
+- 百度地图API、高德地图POI
 - 细粒度图像识别（车型识别、品牌logo识别）
 [链接](http://ai.baidu.com/tech/imagerecognition/fine_grained)
 
