@@ -25,7 +25,7 @@
 - 3.懂车帝如果能够推行上述两个功能，在市场竞争方面能偶更胜一筹。
 
 #### 3.产品概述
-- 核心功能（核心价值）：为懂车帝APP增加定位功能。
+- 核心功能（核心价值）：为懂车帝APP增加地图搜索功能。
 - 延伸功能：为懂车帝APP增加图像识别（车型识别）功能。
 #### Goals（产品目标）
 在懂车帝APP增添为用户提供能够显示用户所在地附近4S店的位置的功能和用户能够通过拍照或者图像来获得该车型信息的功能。
@@ -68,7 +68,7 @@
 [链接](http://ai.baidu.com/tech/imagerecognition/fine_grained)
 
 #### API调配输入输出
-##### 1.定位功能
+##### 1.地图搜索功能
 ##### 2.车型识别
 - [技术文档](http://lbsyun.baidu.com/index.php?title=androidsdk)
 ###### 调用效果（理想）
@@ -79,3 +79,4 @@
 - 第一次尝试
 ![](https://github.com/Yejiejie/API_ML_AI/blob/master/api1.png)
 ![](https://github.com/Yejiejie/API_ML_AI/blob/master/api2.png)
+- 调用尝试
