@@ -64,7 +64,7 @@
 ![](https://github.com/Yejiejie/API_ML_AI/blob/master/%E8%BE%93%E5%87%BA%E9%A1%B5%E9%9D%A2.png)
 ###### 【门店看车】功能使用页
 ![](https://github.com/Yejiejie/API_ML_AI/blob/master/%E3%80%90%E9%97%A8%E5%BA%97%E7%9C%8B%E8%BD%A6%E3%80%91%E5%8A%9F%E8%83%BD%E9%A1%B5.png)
-
+##### 原型文档
 [原型文档](https://yejiejie.github.io/yuanxing/)
 
 ### API&AI
