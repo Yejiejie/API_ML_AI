@@ -2,10 +2,10 @@
 ## 微信小程序
 
 ### Product Requirements
-|Target release|2018/11/26|
+|Target release|2018/12/30|
 |--------------|----|
 |epic|微信小程序——通过拍照识别车型并且能知道该车的销售门店|
-|Document Status|进行中|
+|Document Status|已完成|
 |Document owner|叶家杰|
 |Designer|叶家杰|
 |Developer|叶家杰|
