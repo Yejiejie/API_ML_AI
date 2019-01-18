@@ -137,4 +137,4 @@
 - [原型文档](https://yejiejie.github.io/yuanxing/)
 - [python文档](https://github.com/Yejiejie/API_ML_AI/blob/master/car.ipynb)
 - [百度细粒度图像识别](http://ai.baidu.com/tech/imagerecognition/fine_grained)
-- [车型识别](http://lbsyun.baidu.com/index.php?title=androidsdk)
+
